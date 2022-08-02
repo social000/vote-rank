@@ -1,0 +1,72 @@
+body{
+background:#FFFFFF;
+font-family:Arial,sans-serif;
+width:100%;
+max-width:1000px;
+margin: 0 auto;
+}
+#container{
+max-width:1000px;
+margin:0 auto;
+}
+
+
+#head{
+ margin-top:100;
+ background:;
+ }#head p{
+ color:#606060;
+ text-align:center;
+ text-transform:uppercase;
+ font-size:25px;
+ font-weight:none;
+ }#head h1{
+ color:#606060;
+ text-align:center;
+ font-size:40px;
+ }
+ 
+
+#sign{
+    background:#3D5C9B;
+    padding:50px;
+    border-radius:10px;
+    margin-top:60px;
+   }#sign h2{
+    text-align:center;
+    color:white;
+   }#sign form{
+    width:250px;
+   }#sign form input{
+    width:100%;
+    height:40px;
+    border:0px;
+    outline:none;
+   }#sign form #mail{
+    border-top-right-radius:5px;
+    border-top-left-radius:5px;
+    border-top:1px solid #314D89;
+    border-left:1px solid #314D89;
+    border-right:1px solid #314D89;
+   }#sign form #pass{
+    border-bottom-right-radius:5px;
+    border-bottom-left-radius:5px;
+    border-top:0.5px solid #E0E0E0;
+    
+    border-bottom:1px solid #314D89;
+    border-left:1px solid #314D89;
+    border-right:1px solid #314D89;
+   }#sign form button{
+    width:100%;
+    background:#DADADA;
+    color:#636363;
+    border:0px;
+    height:35px;
+    border-radius:5px;
+   }#sign p{
+    color:white;
+    text-align:center;
+    margin-top:100px;
+    margin:0;
+    padding:0;
+   }
